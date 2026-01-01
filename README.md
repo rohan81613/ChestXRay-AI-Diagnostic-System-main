@@ -15,28 +15,6 @@ An advanced medical imaging analysis application that leverages state-of-the-art
 - **Pre-trained Model Ensemble**: Utilizes multiple validated models trained on large-scale datasets (NIH, CheXpert, MIMIC-CXR)
 - **User-Friendly Interface**: Intuitive GUI designed for medical professionals
 
-## 📸 Screenshots
-
-### Main Interface
-![Main Interface](docs/screenshots/01_main_interface.png)
-*Clean and intuitive main interface for loading and analyzing X-ray images*
-
-### Analysis Summary
-![Analysis Summary](docs/screenshots/02_analysis_summary.png)
-*Quick summary view showing detected conditions and confidence levels*
-
-### Detailed Medical Report
-![Detailed Report](docs/screenshots/03_detailed_report.png)
-*Comprehensive medical report with findings and recommendations*
-
-### Disease Probability Visualization
-![Prediction Probabilities](docs/screenshots/04_prediction_probabilities.png)
-*Visual representation of disease detection probabilities*
-
-### Heatmap Analysis
-![Heatmap Visualization](docs/screenshots/05_heatmap_visualization.png)
-*Advanced heatmap showing areas of concern in the X-ray image*
-
 ## 🚀 Quick Start
 
 ### Prerequisites
